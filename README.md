@@ -1,6 +1,8 @@
 # Diabetes Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
+## Screenshots
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Visualizing hospital diabetes patient visits, demographics, and readmission trends.
